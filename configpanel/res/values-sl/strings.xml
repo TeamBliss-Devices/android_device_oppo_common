@@ -44,14 +44,14 @@
   <string name="oclick_disconnect_string">Prekini</string>
   <string name="oclick_summary_connected">Povezan z O-Clickom</string>
   <string name="oclick_summary_paired">O-Click seznanjen, vendar je povezava prekinjena</string>
-  <string name="oclick_dialog_connecting_message">Povezovanje O-click \u2026\nPritisnite gumb O-Click, da pospešite iskanje.</string>
+  <string name="oclick_dialog_connecting_message">Povezovanje na O-Click \u2026\nPritisnite na gumb O-Click, da pospešite iskanje.</string>
   <string name="oclick_take_snapshot_title">Oddaljeni sprožilec fotoaparata</string>
   <string name="oclick_take_snapshot_summary">Kliknite enkrat za slikanje</string>
   <string name="oclick_find_my_phone_title">Iskalnik telefona</string>
   <string name="oclick_find_my_phone_summary">Dvakrat kliknite, da najdete telefon</string>
   <string name="oclick_fence_title">Opozorilo bližine</string>
   <string name="oclick_fence_summary">Opozori, ko naprava ni v bližini</string>
-  <string name="oclick_disconnect_alert_title">Opozorilo, ko je naprava izven območja</string>
+  <string name="oclick_disconnect_alert_title">Opozorilo, naprava je izven dosega</string>
   <string name="oclick_disconnect_alert_summary">Opozori, ko je naprava izven dosega</string>
   <string name="alert_category_title">Opozorila</string>
   <string name="action_category_title">Dejanja</string>
